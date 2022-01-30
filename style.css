@@ -1,0 +1,73 @@
+body{
+    margin: auto;
+    font-family:verdana;
+}
+.mainBox{
+    border: 1px rgb(216, 216, 216) solid;
+    padding: 10px;
+    font-family:verdana;
+    margin: auto;
+    width: 34vw;
+    min-height: 60vh;
+    background: white;
+    margin-top: 5vh;
+}
+
+#para{
+    color: rgb(150, 150, 150);
+    font-size: x-small;
+    text-align: center;
+    margin-top: 2vh;
+}
+.center {
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%);
+    transform: translate(-50%);
+}
+.fileField{
+    font-size: small;
+}
+.inputField{
+    padding-left: 3% ;
+    padding-right: 3%;
+    margin-top: 2vh;
+}
+.btn{
+    margin-top: 2vh;
+    position:relative;
+    display:inline-block;
+}
+.joinus{
+    min-height: 10vh;
+}
+.r1{
+    width: 100%;
+}
+.containery{
+    margin: 0;
+    margin-top: 5vh;padding-bottom: 4%;
+    background: lightsteelblue;
+}
+.crd{
+    background: lightsteelblue;
+}
+.foot{
+    min-height: 8vh;
+    background: rgb(210,231,241);
+}
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    margin-left: 24%;
+
+}
+#heading{
+    text-align: center;
+    padding-top: 5vh;
+    padding-bottom: 3.5vh;
+}
